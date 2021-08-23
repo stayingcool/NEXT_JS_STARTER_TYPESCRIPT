@@ -1,14 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Contains following:
+This starter project contains following:
 - Next JS 
 - React
 - TypeScript and
 - Tailwind
+- Custom Font ([commit](https://github.com/stayingcool/NEXT_JS_STARTER_TYPESCRIPT/commit/d808807995fdb386e6e1e4d6c2a75639ba2c2c0f))
+
 
 ## Getting Started
 
-### Get Packages Ready
+#### Get Packages Ready
 ```bash
 npm install
 # or
